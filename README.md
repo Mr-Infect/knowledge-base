@@ -72,6 +72,6 @@ All eBooks in this repository are shared under the assumption that they are lega
 
 ## 🚀 **Start Exploring Now!**
 
-Embark on your journey of learning and mastering hacking and programming. Click [here](https://github.com/your-repo-link) to get started!
+Embark on your journey of learning and mastering hacking and programming.
 
 Happy hacking! 🌟
