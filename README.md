@@ -1,6 +1,6 @@
 Welcome to the **Free Hacking & Programming eBooks Repository**! 🎉
 
-This repository is a **dedicated collection of free eBooks** designed to help **beginners** and **advanced learners** enhance their skills in **hacking**, **programming**, and **cybersecurity**. My vision is to provide accessible, high-quality resources to empower individuals on their learning journey.
+This repository is a **dedicated collection of free eBooks** designed to help **beginners** and **advanced learners** enhance their skills in **hacking**, **programming**, and **cybersecurity**. My vision is to provide accessible, high-quality resources to empower individuals on their learning journey.for more data ,resources and details connect me through telegram link in bio 
 
 ---
 
